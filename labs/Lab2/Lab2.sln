@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benjamin.CharacterCreator.ConsoleHost", "Benjamin.CharacterCreator\Benjamin.CharacterCreator.ConsoleHost.csproj", "{35AAC1E7-6FEE-4A08-A4EE-1B29B15A0206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenjaminWest.CharacterCreator", "BenjaminWest.CharacterCreator\BenjaminWest.CharacterCreator.csproj", "{5EB3E90C-E4F1-4AD1-8FB9-D4FBA3890F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35AAC1E7-6FEE-4A08-A4EE-1B29B15A0206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AAC1E7-6FEE-4A08-A4EE-1B29B15A0206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AAC1E7-6FEE-4A08-A4EE-1B29B15A0206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AAC1E7-6FEE-4A08-A4EE-1B29B15A0206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB3E90C-E4F1-4AD1-8FB9-D4FBA3890F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB3E90C-E4F1-4AD1-8FB9-D4FBA3890F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB3E90C-E4F1-4AD1-8FB9-D4FBA3890F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB3E90C-E4F1-4AD1-8FB9-D4FBA3890F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846A5AD8-5C81-479E-BA2E-50BDEC94B91A}
+	EndGlobalSection
+EndGlobal
